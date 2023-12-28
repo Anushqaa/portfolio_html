@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Anushqaa 
 
 ## 🚀 About Me
 I'm a passionate computer science student with a knack for problem-solving and a keen interest in machine learning. I love delving into the intricacies of data, uncovering patterns, and turning insights into impactful solutions.
