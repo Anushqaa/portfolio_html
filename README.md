@@ -1,5 +1,8 @@
 # Hi there! 👋 I'm Anushqaa 
 
+*Please check out my [portfolio](https://anushqaa.github.io/Anushqaa/)!*
+
+
 ## 🚀 About Me
 I'm a passionate computer science student with a knack for problem-solving and a keen interest in machine learning. I love delving into the intricacies of data, uncovering patterns, and turning insights into impactful solutions.
 
