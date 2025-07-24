@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/77/cb/04/77cb041d7e3be04271e0fa9605070983.jpg" alt="Anushqaa" height="90% width="90%"/>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=32&duration=1200&pause=800&color=00F0FF&background=0F1117&center=true&width=500&lines=%F0%9F%96%96%EF%B8%8E+ANUSHQA();" />
+
 </p>
 
-<h1 align="center">👩💻 Anushqa</h1>
-<h3 align="center">ML Engineer | Python Hacker | AI Systems Builder</h3>
+<h3 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=ML+Engineer;Python+Developer+%7C+Torch/Tf+Specialist;AI+Systems+Architect;LLM+Alchemist;Computer+Vision+Wizard;" alt="Dynamic Titles" />
+  </a>
+</h3>
 
 <p align="center">
   <em>
