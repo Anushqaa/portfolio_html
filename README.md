@@ -1,76 +1,45 @@
-<p align="center">
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=32&duration=1200&pause=800&color=00F0FF&background=0F1117&center=true&width=500&lines=%F0%9F%96%96%EF%B8%8E+ANUSHQA();" />
+# Hi there! 👋 I'm Anushqaa 
 
-</p>
+## 🚀 About Me
+I'm a passionate computer science student with a knack for problem-solving and a keen interest in machine learning. I love delving into the intricacies of data, uncovering patterns, and turning insights into impactful solutions.
 
-<h3 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=ML+Engineer;Python+Developer+%7C+Torch/Tf+Specialist;AI+Systems+Architect;LLM+Alchemist;Computer+Vision+Wizard;" alt="Dynamic Titles" />
-  </a>
-</h3>
+## 🔭 Currently Exploring
+- Machine Learning
+- Computer Vision
+- NLP problems
 
-<p align="center">
-  <em>
-    Building production-grade AI systems with <strong>PyTorch</strong>, <strong>TensorFlow</strong>, and <strong>too much coffee</strong>.<br>
-    Specializing in <strong>LLM fine-tuning</strong>, <strong>real-time CV</strong>, and <strong>scalable ML pipelines</strong>.
-  </em>
-</p>
+## 🌱 Learning & Growing
+I'm on a continuous learning journey, exploring new technologies and staying updated with the latest trends in the world of computer science. Currently, I'm diving deep into the fascinating realm of machine learning and artificial intelligence.
 
----
+## 🛠️ Tech Stack
+- **Languages:** Python, C++
+- **Machine Learning:** TensorFlow, Scikit-Learn
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** SQL
 
-### 🛠️ **Core Stack**
 <div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <br><br>
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" /></a>&nbsp&nbsp&nbsp&nbsp;
-  <br><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="60" height="60"/>&nbsp;
+  <img src="hhttps://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg"  title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 
-```python
-def deploy_ai():
-    llm = FineTuner("Llama-3", lora=True)  # RAG pipelines that don't hallucinate
-    vision = YOLOv8(quantized=True)        # Edge-optimized CV models
-    backend = FastAPI + Redis              # Microservices that scale
-    return ProductionSystem(llm, vision, backend)
-```
+## 💬 Let's Connect!
+Feel free to reach out if you share similar interests or if you just want to chat about tech, machine learning, or anything else! Excited to connect with fellow enthusiasts. 😊
 
----
+**Happy Coding!** 🚀
 
-### 🔥 **Technical Focus Areas**
-- **LLM Engineering**: RAG optimization, cost-efficient fine-tuning, multi-agent systems  
-- **Computer Vision**: Real-time object detection, drone imagery segmentation, OpenCV hacking  
-- **MLOps**: CI/CD for ML, Dockerized model serving, AWS SageMaker pipelines  
-- **Data Science**: Time-series forecasting, ensemble methods, feature engineering  
+<div align="center">
 
----
-
-### 🤖 **Current Experiments**
-- Pushing YOLOv9 to 150 FPS on Jetson Nano  
-- Building fault-tolerant RAG with graph-based retrieval  
-- Implementing HFT backtesting with NumPy acceleration  
-
----
-
-### 🏆 **Battle Scars**
-```text
-Kaggle        │ Top 10% in Optiver Volatility Prediction  
-Hackathons    │ 48hr ML system deploys under pressure  
-Daily         │ Fighting Python dependency hell  
-```
-
----
-
-### 📫 **Let's Build**
-<p align="center">
-  <a href="https://linkedin.com/in/anushqa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anushqa@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## Stats
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anushqaa&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushqaa&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+</div>
